@@ -1,0 +1,3 @@
+http://francescopochetti.com/how-to-build-a-recipe-finder-web-application-with-ruby-on-rails/
+
+https://github.com/winniemei/IngredientsApp
